@@ -147,7 +147,7 @@ button:focus-visible {
   font-weight: 400;
   line-height: 200%;
   width: 75%;
-  margin-bottom: 1.5em;
+  margin: 0 auto 1.5em;
 }
 
 .content__list {
